@@ -1,0 +1,149 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 35px;
+    color: white;
+    padding-top: 130px;
+}
+.bannertext{
+    font-size: 18px;
+    color: white;  
+    font-weight: 400;
+    margin: auto;
+    width: 850px;
+    text-align: center;
+    line-height: 30px;
+    position: relative;
+    padding: 10px;
+}
+a{
+    color: white;
+    font-weight: 500;
+    background-color:#333333 ;
+    border: 1px solid #666666;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 18px;
+    position: relative;
+}
+.banner{
+    text-align: center;
+    background-image: url("abstract-business-code-coder-270348.jpg");
+    height: 450px;
+    width: 100%;
+}
+.transbox{
+    background-color:#2e2e2c ;
+    opacity: 0.5;
+    height: 450px;
+    width: 100%;
+    position: absolute;
+}
+a:hover{
+    color:#2e2e2c;
+    background-color:#eaeaea ;
+} 
+.text{
+    position: relative;
+}
+h2{
+    color: #333333;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 600;
+    padding: 30px;
+}
+p.subtext{
+    text-align: center;
+    color: #333333;
+    font-size: 18px;
+    padding-bottom: 50px;
+    line-height: 20px;
+    font-weight: 500;
+    width: 500px;
+    text-align: center;
+    margin-left: 700px;
+}
+.sectionb{
+    background-color: #333333;
+    height: 550px;
+    width: 100%;
+    position: absolute;
+}
+.one{
+    background-color: #ffffff;
+    height: 480px;
+    width: 275px;
+
+}
+li{
+    float: left;
+    margin-left: 30px;
+    padding-top: 40px;
+    list-style: none;
+
+}
+.title{
+    font-size: 20px;
+    font-weight: 600;
+}
+.description{
+    text-align: center;
+    color: #333333 ;
+    padding: 10px 20px;
+    line-height: 25px;
+    font-size: 19px;
+    font-weight: 500;
+}
+.sectionc{
+    text-align: center;
+    margin-top: 600px;
+}
+.sectionctext{
+    padding: 20px 0px 50px 0px;
+    font-size: 18px;
+    width: 700px;
+    margin-left: 600px;
+}
+.contactus, .about{
+    color: white;
+    float:left;
+    background-color: #2690d4;
+    text-align: center;
+    height: 300px;
+    padding: 0px 50px;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: 400;
+    width: 851px;
+}
+.about{
+    background-color: #333333;
+    float:right;
+}
+h3{
+    font-size: 25px;
+    padding:60px;
+}
+footer{
+    background-color: black;
+    color: white;
+    clear: both;
+    height: 100px;
+    width:100%;
+}
+.bottomleft,.bottomright{
+    float:left;
+    font-size: 18px;
+    padding:40px;
+    font-weight: 400;
+}
+.bottomright{
+    float:right;
+}
+span{
+    color:#2690d4;
+}
