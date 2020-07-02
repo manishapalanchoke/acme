@@ -72,6 +72,7 @@ p.subtext{
     height: 550px;
     width: 100%;
     position: absolute;
+    padding: 0px 500px;
 }
 .one{
     background-color: #ffffff;
@@ -118,7 +119,8 @@ li{
     line-height: 25px;
     font-size: 18px;
     font-weight: 400;
-    width: 851px;
+    width: 50%;
+    box-sizing: border-box ;
 }
 .about{
     background-color: #333333;
